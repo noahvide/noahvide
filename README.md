@@ -1,4 +1,13 @@
 ### Hi there 👋
+🔭 I’m currently working on:
+- reconstructing 3D MRI Images
+- something cool involving data from my fantasy draft football league (premier league)
+
+🌱 I’m currently learning:
+- Programming Language Design
+- A lot of ML
+
+
 
 <!--
 **noahvide/noahvide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
